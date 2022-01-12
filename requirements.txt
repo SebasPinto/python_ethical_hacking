@@ -50,7 +50,7 @@ dhcpig==0.0.0
 dicttoxml==1.7.4
 distro==1.4.0
 Django==2.2.12
-dnslib==0.9.12
+dnslib==0.9.17
 dnspython==1.16.0
 ecdsa==0.15
 email-validator==1.0.3
